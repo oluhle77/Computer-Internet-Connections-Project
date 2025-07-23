@@ -2,6 +2,7 @@
 As part of a team of course mates, we completed a comprehensive network design project using Cisco Packet Tracer. The objective was to simulate and configure a modern, well-connected workplace that meets the needs of a dynamic office environment. Our focus was on ensuring seamless connectivity, security, and reliable communication between all users and departments.
 
 Project Goals:
+
 Populate the workplace with multiple offices, each equipped with specific hardware to support departmental needs.
 Establish seamless internet connectivity for all users, regardless of their location in the building.
 Include a dedicated server room outfitted with essential servers and network machinery, ensuring robust backend infrastructure.
